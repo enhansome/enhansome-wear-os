@@ -1,0 +1,176 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Apps"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SimpleWear",
+          "description": "Control simple actions on your Android device from your Wear OS Watch. (source code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2025-11-11T16:49:40Z",
+            "owner": "SimpleAppProjects",
+            "repo": "SimpleWear",
+            "stars": 181
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rhaeus/dnd-sync",
+          "description": "Sync DND state between Android phone and watch.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Silleellie/dnd-bedtime-sync",
+              "description": "Sync DND state and bedtime mode between your Android phone and watch.",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "turtlepaw/dnd-bedtime-sync",
+                  "description": "Material 3 fork with improvements.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Kotlin",
+                    "last_commit": "2025-11-26T02:43:17Z",
+                    "owner": "Turtlepaw",
+                    "repo": "dnd-bedtime-sync",
+                    "stars": 65
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "language": "Java",
+                "last_commit": "2024-01-27T15:44:26Z",
+                "owner": "Silleellie",
+                "repo": "dnd-bedtime-sync",
+                "stars": 77
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-01-04T19:57:20Z",
+            "owner": "rhaeus",
+            "repo": "dnd-sync",
+            "stars": 161
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Offline Password Manager",
+          "description": "Minimalistic & secure password manager with phone app. (source code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-05-23T12:54:52Z",
+            "owner": "jagadeesh-k-2802",
+            "repo": "password-manager-compose",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Watchcat",
+          "description": "Display messages from TCP, UDP, Bluetooth SSP, and BLE—like Unix cat, but for your wrist.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-09-27T09:38:28Z",
+            "owner": "AuroraRAS",
+            "repo": "watchcat",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Utilities"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Clockwork",
+          "description": "The all-in-one package manager and builder for Watch Face Studio Projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-05-18T16:30:51Z",
+            "owner": "Turtlepaw",
+            "repo": "clockwork",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XML Preprocessor",
+          "description": "Allows Python expressions and reduces duplication in Google-Samsung Watch Face Format XML.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-06T21:17:20Z",
+            "owner": "gondwanasoft",
+            "repo": "xml-preprocessor",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Watch Face Format Boilerplate Project",
+          "description": "Empty Watch Face Format (WFF) project; useful for creating new WFF projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-26T21:40:14Z",
+            "owner": "gondwanasoft",
+            "repo": "wff-boilerplate",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Always On Display Assessor",
+          "description": "Tool for estimating AOD compliance of Watch Face Format screenshots or mockups.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-18T00:10:21Z",
+            "owner": "gondwanasoft",
+            "repo": "wff-aod",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Watch Faces"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T16:27:57.339Z",
+    "original_repository": "WearOSCommunity/awesome-wear-os",
+    "original_repository_sha": "148d7dc8261833841fe869409c7ba0b61d24c982",
+    "enhanced_repository": "enhansome/enhansome-wear-os",
+    "enhanced_repository_description": null,
+    "title": "Awesome Wear OS with stars"
+  }
+}
