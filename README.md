@@ -68,7 +68,7 @@ We welcome all Wear OS projects - free, paid, open or closed source! Check out o
 
 ### Music Players
 
-* [Cassette](https://github.com/AdamNiederer/cassette/releases) ⭐ 22 | 🐛 2 | 🌐 Kotlin | 📅 2026-08-10 - A local music player for Wear OS. [(source code)](https://github.com/adamniederer/cassette) ⭐ 22 | 🐛 2 | 🌐 Kotlin | 📅 2026-08-10
+* [Cassette](https://github.com/AdamNiederer/cassette/releases) ⭐ 23 | 🐛 2 | 🌐 Kotlin | 📅 2026-08-10 - A local music player for Wear OS. [(source code)](https://github.com/adamniederer/cassette) ⭐ 23 | 🐛 2 | 🌐 Kotlin | 📅 2026-08-10
 
 ## Tools
 
@@ -90,4 +90,4 @@ We welcome all Wear OS projects - free, paid, open or closed source! Check out o
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
