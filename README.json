@@ -7,6 +7,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Wear Cats",
+              "description": "Discover a delightful world of cats and bunnies right on your Wear OS watch. (source code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 765951340,
+                "language": "Kotlin",
+                "last_commit": "2024-11-14T15:46:21Z",
+                "owner": "Turtlepaw",
+                "repo": "wear-cats",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Entertainment"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "On Track",
+              "description": "Compare activity with expected achievement at the current time, includes tiles and complications. (source code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 834300448,
+                "language": "Kotlin",
+                "last_commit": "2025-02-12T22:53:27Z",
+                "owner": "gondwanasoft",
+                "repo": "wear-os-on-track",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Health & Fitness"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "SimpleWear",
               "description": "Control simple actions on your Android device from your Wear OS Watch. (source code)",
               "children": [],
@@ -101,6 +145,50 @@
           "description": null,
           "node_type": "group",
           "title": "Utilities"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SimpleWeather",
+              "description": "Get your current forecast with additional features. (source code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 82603731,
+                "language": "Kotlin",
+                "last_commit": "2026-08-05T01:40:41Z",
+                "owner": "SimpleAppProjects",
+                "repo": "SimpleWeather-Android",
+                "stars": 56
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Weather"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Cassette",
+              "description": "A local music player for Wear OS. (source code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1131960175,
+                "language": "Kotlin",
+                "last_commit": "2026-08-10T06:48:38Z",
+                "owner": "AdamNiederer",
+                "repo": "cassette",
+                "stars": 23
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Music Players"
         }
       ],
       "title": "Apps"
@@ -180,7 +268,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T15:50:15.300Z",
+    "last_updated": "2026-08-24T14:44:14.360Z",
     "original_repository": "WearOSCommunity/awesome-wear-os",
     "original_repository_id": 767233551,
     "original_repository_sha": "148d7dc8261833841fe869409c7ba0b61d24c982",
