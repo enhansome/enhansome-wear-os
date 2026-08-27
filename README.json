@@ -86,7 +86,7 @@
                         "last_commit": "2025-11-26T02:43:17Z",
                         "owner": "Turtlepaw",
                         "repo": "dnd-bedtime-sync",
-                        "stars": 65
+                        "stars": 66
                       }
                     }
                   ],
@@ -268,9 +268,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:36:56.122Z",
-    "original_repository": "WearOSCommunity/awesome-wear-os",
-    "original_repository_id": 767233551,
+    "last_updated": "2026-08-27T12:10:02.436Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 767233551,
+      "language": null,
+      "last_commit": "2026-01-11T21:34:48Z",
+      "owner": "WearOSCommunity",
+      "repo": "awesome-wear-os",
+      "stars": 74
+    },
     "original_repository_sha": "148d7dc8261833841fe869409c7ba0b61d24c982",
     "enhanced_repository": "enhansome/enhansome-wear-os",
     "enhanced_repository_description": null,
