@@ -18,7 +18,8 @@
                 "owner": "Turtlepaw",
                 "repo": "wear-cats",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T00:04:32.882Z"
             }
           ],
           "description": null,
@@ -40,7 +41,8 @@
                 "owner": "gondwanasoft",
                 "repo": "wear-os-on-track",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T00:04:32.882Z"
             }
           ],
           "description": null,
@@ -61,8 +63,9 @@
                 "last_commit": "2025-11-11T16:49:40Z",
                 "owner": "SimpleAppProjects",
                 "repo": "SimpleWear",
-                "stars": 183
-              }
+                "stars": 184
+              },
+              "first_seen": "2026-08-29T00:04:32.882Z"
             },
             {
               "node_type": "item",
@@ -87,7 +90,8 @@
                         "owner": "Turtlepaw",
                         "repo": "dnd-bedtime-sync",
                         "stars": 66
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:04:32.882Z"
                     }
                   ],
                   "repo_info": {
@@ -98,7 +102,8 @@
                     "owner": "Silleellie",
                     "repo": "dnd-bedtime-sync",
                     "stars": 77
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:04:32.882Z"
                 }
               ],
               "repo_info": {
@@ -109,7 +114,8 @@
                 "owner": "rhaeus",
                 "repo": "dnd-sync",
                 "stars": 161
-              }
+              },
+              "first_seen": "2026-08-29T00:04:32.882Z"
             },
             {
               "node_type": "item",
@@ -124,7 +130,8 @@
                 "owner": "jagadeesh-k-2802",
                 "repo": "password-manager-compose",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-29T00:04:32.882Z"
             },
             {
               "node_type": "item",
@@ -139,7 +146,8 @@
                 "owner": "AuroraRAS",
                 "repo": "watchcat",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-29T00:04:32.882Z"
             }
           ],
           "description": null,
@@ -157,11 +165,12 @@
                 "archived": false,
                 "id": 82603731,
                 "language": "Kotlin",
-                "last_commit": "2026-08-05T01:40:41Z",
+                "last_commit": "2026-08-28T23:56:06Z",
                 "owner": "SimpleAppProjects",
                 "repo": "SimpleWeather-Android",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-29T00:04:32.882Z"
             }
           ],
           "description": null,
@@ -183,7 +192,8 @@
                 "owner": "AdamNiederer",
                 "repo": "cassette",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-29T00:04:32.882Z"
             }
           ],
           "description": null,
@@ -211,7 +221,8 @@
                 "owner": "Turtlepaw",
                 "repo": "clockwork",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-29T00:04:32.882Z"
             },
             {
               "node_type": "item",
@@ -226,7 +237,8 @@
                 "owner": "gondwanasoft",
                 "repo": "xml-preprocessor",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T00:04:32.882Z"
             },
             {
               "node_type": "item",
@@ -241,7 +253,8 @@
                 "owner": "gondwanasoft",
                 "repo": "wff-boilerplate",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T00:04:32.882Z"
             },
             {
               "node_type": "item",
@@ -256,7 +269,8 @@
                 "owner": "gondwanasoft",
                 "repo": "wff-aod",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T00:04:32.882Z"
             }
           ],
           "description": null,
@@ -268,7 +282,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:33:19.025Z",
+    "last_updated": "2026-08-29T00:04:32.882Z",
     "original_repository_info": {
       "archived": false,
       "id": 767233551,
