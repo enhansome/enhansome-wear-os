@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 765951340,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2024-11-14T15:46:21Z",
+                "open_issues": 0,
                 "owner": "Turtlepaw",
                 "repo": "wear-cats",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:04:32.882Z"
             }
@@ -35,12 +40,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 834300448,
                 "language": "Kotlin",
+                "license": "MIT",
                 "last_commit": "2025-02-12T22:53:27Z",
+                "open_issues": 1,
                 "owner": "gondwanasoft",
                 "repo": "wear-os-on-track",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:04:32.882Z"
             }
@@ -58,12 +68,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Control your Android phone from your WearOS watch",
+                "homepage": "https://simpleappprojects.github.io/SimpleWear/",
                 "id": 197253270,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2025-11-11T16:49:40Z",
+                "open_issues": 6,
                 "owner": "SimpleAppProjects",
                 "repo": "SimpleWear",
-                "stars": 184
+                "stars": 184,
+                "topics": [
+                  "android",
+                  "wearos"
+                ]
               },
               "first_seen": "2026-08-29T00:04:32.882Z"
             },
@@ -84,36 +102,57 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Material 3 fork. Sync DND state and Bedtime mode between Android phone and watch",
+                        "homepage": null,
                         "id": 909105409,
                         "language": "Kotlin",
+                        "license": null,
                         "last_commit": "2025-11-26T02:43:17Z",
+                        "open_issues": 2,
                         "owner": "Turtlepaw",
                         "repo": "dnd-bedtime-sync",
-                        "stars": 66
+                        "stars": 66,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T00:04:32.882Z"
                     }
                   ],
                   "repo_info": {
                     "archived": false,
+                    "description": "Sync DND state and BedTime mode between Android phone and watch",
+                    "homepage": null,
                     "id": 702123931,
                     "language": "Java",
+                    "license": null,
                     "last_commit": "2024-01-27T15:44:26Z",
+                    "open_issues": 8,
                     "owner": "Silleellie",
                     "repo": "dnd-bedtime-sync",
-                    "stars": 77
+                    "stars": 77,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:04:32.882Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "Sync DND state between Android phone and watch",
+                "homepage": null,
                 "id": 400820640,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2023-01-04T19:57:20Z",
+                "open_issues": 11,
                 "owner": "rhaeus",
                 "repo": "dnd-sync",
-                "stars": 161
+                "stars": 161,
+                "topics": [
+                  "android",
+                  "do-not-disturb",
+                  "mobile",
+                  "sync",
+                  "wearos"
+                ]
               },
               "first_seen": "2026-08-29T00:04:32.882Z"
             },
@@ -124,12 +163,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Minimalistic, Secure, Offline Password Manager",
+                "homepage": "https://play.google.com/store/apps/details?id=com.jackappsdev.password_manager",
                 "id": 770388277,
                 "language": "Kotlin",
+                "license": "GPL-3.0",
                 "last_commit": "2026-05-23T12:54:52Z",
+                "open_issues": 0,
                 "owner": "jagadeesh-k-2802",
                 "repo": "password-manager-compose",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "android",
+                  "coroutines",
+                  "dagger-hilt",
+                  "jetpack-compose",
+                  "kotlin",
+                  "room-database",
+                  "sqlcipher",
+                  "wear-os"
+                ]
               },
               "first_seen": "2026-08-29T00:04:32.882Z"
             },
@@ -140,12 +193,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A free, open-source Wear OS tool to display messages from TCP, UDP, Bluetooth SSP, and BLE—like Unix cat, but for your wrist.",
+                "homepage": null,
                 "id": 946519178,
                 "language": "Java",
+                "license": "GPL-3.0",
                 "last_commit": "2025-09-27T09:38:28Z",
+                "open_issues": 1,
                 "owner": "AuroraRAS",
                 "repo": "watchcat",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "android",
+                  "android-watch",
+                  "messaging",
+                  "wearos"
+                ]
               },
               "first_seen": "2026-08-29T00:04:32.882Z"
             }
@@ -163,12 +226,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple weather application for Android",
+                "homepage": null,
                 "id": 82603731,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T23:56:06Z",
+                "open_issues": 2,
                 "owner": "SimpleAppProjects",
                 "repo": "SimpleWeather-Android",
-                "stars": 56
+                "stars": 56,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:04:32.882Z"
             }
@@ -186,12 +254,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A local music player for Wear OS",
+                "homepage": null,
                 "id": 1131960175,
                 "language": "Kotlin",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-10T06:48:38Z",
+                "open_issues": 2,
                 "owner": "AdamNiederer",
                 "repo": "cassette",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:04:32.882Z"
             }
@@ -215,12 +288,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source CLI and package manager for Watch Face Format projects",
+                "homepage": "https://clockwork-pkg.pages.dev",
                 "id": 909886841,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-05-18T16:30:51Z",
+                "open_issues": 1,
                 "owner": "Turtlepaw",
                 "repo": "clockwork",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "watch",
+                  "watch-face",
+                  "watch-faces",
+                  "watchface",
+                  "watchfaceformat",
+                  "wear-os",
+                  "wearos",
+                  "wff"
+                ]
               },
               "first_seen": "2026-08-29T00:04:32.882Z"
             },
@@ -231,12 +318,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Allows Python expressions and reduces duplication in Google-Samsung Watch Face Format XML.",
+                "homepage": null,
                 "id": 896218581,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2025-04-06T21:17:20Z",
+                "open_issues": 0,
                 "owner": "gondwanasoft",
                 "repo": "xml-preprocessor",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:04:32.882Z"
             },
@@ -247,12 +339,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A template for Google-Samsung Watch Face Format projects.",
+                "homepage": null,
                 "id": 896628823,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2025-02-26T21:40:14Z",
+                "open_issues": 0,
                 "owner": "gondwanasoft",
                 "repo": "wff-boilerplate",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:04:32.882Z"
             },
@@ -263,12 +360,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Command-line tool for estimating AOD compliance of Wear OS screenshots.",
+                "homepage": null,
                 "id": 907190066,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-02-18T00:10:21Z",
+                "open_issues": 0,
                 "owner": "gondwanasoft",
                 "repo": "wff-aod",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:04:32.882Z"
             }
@@ -282,15 +384,23 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:04:32.882Z",
+    "last_updated": "2026-08-29T05:02:14.559Z",
     "original_repository_info": {
       "archived": false,
+      "description": "List of awesome Wear OS stuff",
+      "homepage": null,
       "id": 767233551,
       "language": null,
+      "license": "CC-BY-4.0",
       "last_commit": "2026-01-11T21:34:48Z",
+      "open_issues": 0,
       "owner": "WearOSCommunity",
       "repo": "awesome-wear-os",
-      "stars": 74
+      "stars": 74,
+      "topics": [
+        "awesome",
+        "awesome-list"
+      ]
     },
     "original_repository_sha": "148d7dc8261833841fe869409c7ba0b61d24c982",
     "enhanced_repository": "enhansome/enhansome-wear-os",
