@@ -73,7 +73,7 @@
                 "id": 197253270,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2025-11-11T16:49:40Z",
+                "last_commit": "2026-08-30T17:52:19Z",
                 "open_issues": 6,
                 "owner": "SimpleAppProjects",
                 "repo": "SimpleWear",
@@ -111,7 +111,7 @@
                         "open_issues": 2,
                         "owner": "Turtlepaw",
                         "repo": "dnd-bedtime-sync",
-                        "stars": 66,
+                        "stars": 67,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T00:04:32.882Z"
@@ -384,7 +384,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T18:47:02.427Z",
+    "last_updated": "2026-08-30T18:44:54.392Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome Wear OS stuff",
