@@ -199,7 +199,7 @@
                 "language": "Java",
                 "license": "GPL-3.0",
                 "last_commit": "2025-09-27T09:38:28Z",
-                "open_issues": 1,
+                "open_issues": 0,
                 "owner": "AuroraRAS",
                 "repo": "watchcat",
                 "stars": 9,
@@ -384,7 +384,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T21:01:17.079Z",
+    "last_updated": "2026-09-01T18:45:17.432Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome Wear OS stuff",
