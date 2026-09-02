@@ -199,7 +199,7 @@
                 "language": "Java",
                 "license": "GPL-3.0",
                 "last_commit": "2025-09-27T09:38:28Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "AuroraRAS",
                 "repo": "watchcat",
                 "stars": 9,
@@ -297,7 +297,7 @@
                 "open_issues": 1,
                 "owner": "Turtlepaw",
                 "repo": "clockwork",
-                "stars": 12,
+                "stars": 13,
                 "topics": [
                   "watch",
                   "watch-face",
@@ -384,7 +384,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T18:45:17.432Z",
+    "last_updated": "2026-09-02T18:54:56.412Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome Wear OS stuff",
@@ -396,7 +396,7 @@
       "open_issues": 0,
       "owner": "WearOSCommunity",
       "repo": "awesome-wear-os",
-      "stars": 74,
+      "stars": 75,
       "topics": [
         "awesome",
         "awesome-list"

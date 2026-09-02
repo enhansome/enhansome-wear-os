@@ -53,7 +53,7 @@ We welcome all Wear OS projects - free, paid, open or closed source! Check out o
   * [Silleellie/dnd-bedtime-sync](https://github.com/Silleellie/dnd-bedtime-sync) ⭐ 77 | 🐛 8 | 🌐 Java | 📅 2024-01-27 - Sync DND state and bedtime mode between your Android phone and watch.
     * [turtlepaw/dnd-bedtime-sync](https://github.com/turtlepaw/dnd-bedtime-sync) ⭐ 67 | 🐛 2 | 🌐 Kotlin | 📅 2025-11-26 - Material 3 fork with improvements.
 * [Offline Password Manager](https://play.google.com/store/apps/details?id=com.jackappsdev.password_manager) - Minimalistic & secure password manager with phone app. [(source code)](https://github.com/jagadeesh-k-2802/password-manager-compose) ⭐ 12 | 🐛 0 | 🌐 Kotlin | 📅 2026-05-23
-* [Watchcat](https://github.com/AuroraRAS/watchcat) ⭐ 9 | 🐛 0 | 🌐 Java | 📅 2025-09-27 - Display messages from TCP, UDP, Bluetooth SSP, and BLE—like Unix cat, but for your wrist.
+* [Watchcat](https://github.com/AuroraRAS/watchcat) ⭐ 9 | 🐛 1 | 🌐 Java | 📅 2025-09-27 - Display messages from TCP, UDP, Bluetooth SSP, and BLE—like Unix cat, but for your wrist.
 
 <details>
 <summary>💰 Paid apps</summary>
@@ -74,7 +74,7 @@ We welcome all Wear OS projects - free, paid, open or closed source! Check out o
 
 ### Watch Faces
 
-* [Clockwork](https://github.com/Turtlepaw/clockwork) ⭐ 12 | 🐛 1 | 🌐 TypeScript | 📅 2025-05-18 - The all-in-one package manager and builder for Watch Face Studio Projects.
+* [Clockwork](https://github.com/Turtlepaw/clockwork) ⭐ 13 | 🐛 1 | 🌐 TypeScript | 📅 2025-05-18 - The all-in-one package manager and builder for Watch Face Studio Projects.
 * [XML Preprocessor](https://github.com/gondwanasoft/xml-preprocessor) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2025-04-06 - Allows Python expressions and reduces duplication in Google-Samsung Watch Face Format XML.
 * [Watch Face Format Boilerplate Project](https://github.com/gondwanasoft/wff-boilerplate) ⭐ 4 | 🐛 0 | 📅 2025-02-26 - Empty Watch Face Format (WFF) project; useful for creating new WFF projects.
 * [Always On Display Assessor](https://github.com/gondwanasoft/wff-aod) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2025-02-18 - Tool for estimating AOD compliance of Watch Face Format screenshots or mockups.
@@ -90,4 +90,4 @@ We welcome all Wear OS projects - free, paid, open or closed source! Check out o
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
