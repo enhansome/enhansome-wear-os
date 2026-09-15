@@ -111,7 +111,7 @@
                         "open_issues": 3,
                         "owner": "Turtlepaw",
                         "repo": "dnd-bedtime-sync",
-                        "stars": 68,
+                        "stars": 69,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T00:04:32.882Z"
@@ -384,7 +384,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T19:54:58.772Z",
+    "last_updated": "2026-09-15T19:09:25.726Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome Wear OS stuff",
@@ -396,7 +396,7 @@
       "open_issues": 1,
       "owner": "WearOSCommunity",
       "repo": "awesome-wear-os",
-      "stars": 76,
+      "stars": 77,
       "topics": [
         "awesome",
         "awesome-list"
