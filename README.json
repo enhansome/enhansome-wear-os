@@ -77,7 +77,7 @@
                 "open_issues": 6,
                 "owner": "SimpleAppProjects",
                 "repo": "SimpleWear",
-                "stars": 187,
+                "stars": 188,
                 "topics": [
                   "android",
                   "wearos"
@@ -232,7 +232,7 @@
                 "language": "Kotlin",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-28T23:56:06Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "SimpleAppProjects",
                 "repo": "SimpleWeather-Android",
                 "stars": 56,
@@ -384,7 +384,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T19:03:10.260Z",
+    "last_updated": "2026-09-23T19:10:36.236Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome Wear OS stuff",
@@ -396,7 +396,7 @@
       "open_issues": 1,
       "owner": "WearOSCommunity",
       "repo": "awesome-wear-os",
-      "stars": 77,
+      "stars": 78,
       "topics": [
         "awesome",
         "awesome-list"
