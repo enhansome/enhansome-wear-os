@@ -77,7 +77,7 @@
                 "open_issues": 6,
                 "owner": "SimpleAppProjects",
                 "repo": "SimpleWear",
-                "stars": 188,
+                "stars": 190,
                 "topics": [
                   "android",
                   "wearos"
@@ -111,7 +111,7 @@
                         "open_issues": 3,
                         "owner": "Turtlepaw",
                         "repo": "dnd-bedtime-sync",
-                        "stars": 69,
+                        "stars": 70,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T00:04:32.882Z"
@@ -263,7 +263,7 @@
                 "open_issues": 2,
                 "owner": "AdamNiederer",
                 "repo": "cassette",
-                "stars": 24,
+                "stars": 25,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:04:32.882Z"
@@ -384,7 +384,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T19:12:57.133Z",
+    "last_updated": "2026-09-28T21:20:50.892Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome Wear OS stuff",
