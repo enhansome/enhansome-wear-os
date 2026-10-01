@@ -77,7 +77,7 @@
                 "open_issues": 6,
                 "owner": "SimpleAppProjects",
                 "repo": "SimpleWear",
-                "stars": 190,
+                "stars": 191,
                 "topics": [
                   "android",
                   "wearos"
@@ -384,7 +384,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T20:15:22.739Z",
+    "last_updated": "2026-10-01T20:27:04.749Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome Wear OS stuff",
