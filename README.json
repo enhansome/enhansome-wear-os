@@ -263,7 +263,7 @@
                 "open_issues": 2,
                 "owner": "AdamNiederer",
                 "repo": "cassette",
-                "stars": 25,
+                "stars": 26,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:04:32.882Z"
@@ -384,7 +384,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T20:47:36.875Z",
+    "last_updated": "2026-10-14T19:37:53.847Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome Wear OS stuff",
