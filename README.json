@@ -77,7 +77,7 @@
                 "open_issues": 6,
                 "owner": "SimpleAppProjects",
                 "repo": "SimpleWear",
-                "stars": 196,
+                "stars": 197,
                 "topics": [
                   "android",
                   "wearos"
@@ -196,10 +196,10 @@
                 "description": "A free, open-source Wear OS tool to display messages from TCP, UDP, Bluetooth SSP, and BLE—like Unix cat, but for your wrist.",
                 "homepage": null,
                 "id": 946519178,
-                "language": "Java",
+                "language": "Kotlin",
                 "license": "GPL-3.0",
-                "last_commit": "2025-09-27T09:38:28Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-30T15:18:17Z",
+                "open_issues": 0,
                 "owner": "AuroraRAS",
                 "repo": "watchcat",
                 "stars": 9,
@@ -384,7 +384,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T20:29:15.415Z",
+    "last_updated": "2026-10-30T20:03:16.865Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome Wear OS stuff",
