@@ -198,7 +198,7 @@
                 "id": 946519178,
                 "language": "Kotlin",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-30T15:18:17Z",
+                "last_commit": "2026-10-31T14:26:52Z",
                 "open_issues": 0,
                 "owner": "AuroraRAS",
                 "repo": "watchcat",
@@ -384,7 +384,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T20:03:16.865Z",
+    "last_updated": "2026-10-31T19:29:15.664Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome Wear OS stuff",

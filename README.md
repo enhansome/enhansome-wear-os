@@ -53,7 +53,7 @@ We welcome all Wear OS projects - free, paid, open or closed source! Check out o
   * [Silleellie/dnd-bedtime-sync](https://github.com/Silleellie/dnd-bedtime-sync) ⭐ 78 | 🐛 8 | 🌐 Java | 📅 2024-01-27 - Sync DND state and bedtime mode between your Android phone and watch.
     * [turtlepaw/dnd-bedtime-sync](https://github.com/turtlepaw/dnd-bedtime-sync) ⭐ 73 | 🐛 3 | 🌐 Kotlin | 📅 2025-11-26 - Material 3 fork with improvements.
 * [Offline Password Manager](https://play.google.com/store/apps/details?id=com.jackappsdev.password_manager) - Minimalistic & secure password manager with phone app. [(source code)](https://github.com/jagadeesh-k-2802/password-manager-compose) ⭐ 12 | 🐛 0 | 🌐 Kotlin | 📅 2026-05-23
-* [Watchcat](https://github.com/AuroraRAS/watchcat) ⭐ 9 | 🐛 0 | 🌐 Kotlin | 📅 2026-10-30 - Display messages from TCP, UDP, Bluetooth SSP, and BLE—like Unix cat, but for your wrist.
+* [Watchcat](https://github.com/AuroraRAS/watchcat) ⭐ 9 | 🐛 0 | 🌐 Kotlin | 📅 2026-10-31 - Display messages from TCP, UDP, Bluetooth SSP, and BLE—like Unix cat, but for your wrist.
 
 <details>
 <summary>💰 Paid apps</summary>
@@ -90,4 +90,4 @@ We welcome all Wear OS projects - free, paid, open or closed source! Check out o
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
