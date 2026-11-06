@@ -64,7 +64,7 @@ We welcome all Wear OS projects - free, paid, open or closed source! Check out o
 
 ### Weather
 
-* [SimpleWeather](https://play.google.com/store/apps/details?id=com.thewizrd.simpleweather) - Get your current forecast with additional features. [(source code)](https://github.com/SimpleAppProjects/SimpleWeather-Android) ⭐ 56 | 🐛 3 | 🌐 Kotlin | 📅 2026-08-28
+* [SimpleWeather](https://play.google.com/store/apps/details?id=com.thewizrd.simpleweather) - Get your current forecast with additional features. [(source code)](https://github.com/SimpleAppProjects/SimpleWeather-Android) ⭐ 55 | 🐛 3 | 🌐 Kotlin | 📅 2026-08-28
 
 ### Music Players
 
@@ -90,4 +90,4 @@ We welcome all Wear OS projects - free, paid, open or closed source! Check out o
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
