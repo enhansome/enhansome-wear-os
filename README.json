@@ -74,7 +74,7 @@
                 "language": "Kotlin",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-30T17:52:19Z",
-                "open_issues": 7,
+                "open_issues": 6,
                 "owner": "SimpleAppProjects",
                 "repo": "SimpleWear",
                 "stars": 197,
@@ -384,7 +384,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T21:00:18.303Z",
+    "last_updated": "2026-11-07T19:33:47.272Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome Wear OS stuff",
