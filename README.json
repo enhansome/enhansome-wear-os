@@ -125,7 +125,7 @@
                     "language": "Java",
                     "license": null,
                     "last_commit": "2024-01-27T15:44:26Z",
-                    "open_issues": 8,
+                    "open_issues": 9,
                     "owner": "Silleellie",
                     "repo": "dnd-bedtime-sync",
                     "stars": 79,
@@ -384,7 +384,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T19:33:47.272Z",
+    "last_updated": "2026-11-08T19:54:24.237Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome Wear OS stuff",
