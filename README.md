@@ -48,12 +48,13 @@ We welcome all Wear OS projects - free, paid, open or closed source! Check out o
 
 ### Utilities
 
-* [SimpleWear](https://play.google.com/store/apps/details?id=com.thewizrd.simplewear) - Control simple actions on your Android device from your Wear OS Watch. [(source code)](https://github.com/SimpleAppProjects/SimpleWear) ⭐ 197 | 🐛 6 | 🌐 Kotlin | 📅 2026-08-30
+* [SimpleWear](https://play.google.com/store/apps/details?id=com.thewizrd.simplewear) - Control simple actions on your Android device from your Wear OS Watch. [(source code)](https://github.com/SimpleAppProjects/SimpleWear) ⭐ 198 | 🐛 6 | 🌐 Kotlin | 📅 2026-08-30
 * [rhaeus/dnd-sync](https://github.com/rhaeus/dnd-sync) ⭐ 161 | 🐛 11 | 🌐 Java | 📅 2023-01-04 - Sync DND state between Android phone and watch.
   * [Silleellie/dnd-bedtime-sync](https://github.com/Silleellie/dnd-bedtime-sync) ⭐ 79 | 🐛 9 | 🌐 Java | 📅 2024-01-27 - Sync DND state and bedtime mode between your Android phone and watch.
     * [turtlepaw/dnd-bedtime-sync](https://github.com/turtlepaw/dnd-bedtime-sync) ⭐ 73 | 🐛 3 | 🌐 Kotlin | 📅 2025-11-26 - Material 3 fork with improvements.
 * [Offline Password Manager](https://play.google.com/store/apps/details?id=com.jackappsdev.password_manager) - Minimalistic & secure password manager with phone app. [(source code)](https://github.com/jagadeesh-k-2802/password-manager-compose) ⭐ 12 | 🐛 0 | 🌐 Kotlin | 📅 2026-05-23
 * [Watchcat](https://github.com/AuroraRAS/watchcat) ⭐ 9 | 🐛 0 | 🌐 Kotlin | 📅 2026-10-31 - Display messages from TCP, UDP, Bluetooth SSP, and BLE—like Unix cat, but for your wrist.
+* [Herold](https://github.com/chackrahunter/herold) ⭐ 0 | 🐛 1 | 🌐 Java | 📅 2026-09-04 - Toolkit for using a Galaxy Watch with an iPhone and no Google account: iPhone notifications over ANCS, health measurements, an account-free app store and a watch face.
 
 <details>
 <summary>💰 Paid apps</summary>
@@ -68,7 +69,7 @@ We welcome all Wear OS projects - free, paid, open or closed source! Check out o
 
 ### Music Players
 
-* [Cassette](https://github.com/AdamNiederer/cassette/releases) ⭐ 28 | 🐛 2 | 🌐 Kotlin | 📅 2026-08-10 - A local music player for Wear OS. [(source code)](https://github.com/adamniederer/cassette) ⭐ 28 | 🐛 2 | 🌐 Kotlin | 📅 2026-08-10
+* [Cassette](https://github.com/AdamNiederer/cassette/releases) ⭐ 29 | 🐛 2 | 🌐 Kotlin | 📅 2026-08-10 - A local music player for Wear OS. [(source code)](https://github.com/adamniederer/cassette) ⭐ 29 | 🐛 2 | 🌐 Kotlin | 📅 2026-08-10
 
 ## Tools
 
@@ -90,4 +91,4 @@ We welcome all Wear OS projects - free, paid, open or closed source! Check out o
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
