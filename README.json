@@ -145,7 +145,7 @@
                 "open_issues": 11,
                 "owner": "rhaeus",
                 "repo": "dnd-sync",
-                "stars": 161,
+                "stars": 160,
                 "topics": [
                   "android",
                   "do-not-disturb",
@@ -424,7 +424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T21:53:53.457Z",
+    "last_updated": "2026-11-13T21:31:29.037Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome Wear OS stuff",
@@ -432,7 +432,7 @@
       "id": 767233551,
       "language": null,
       "license": "CC-BY-4.0",
-      "last_commit": "2026-11-08T21:16:19Z",
+      "last_commit": "2026-11-13T17:40:30Z",
       "open_issues": 1,
       "owner": "WearOSCommunity",
       "repo": "awesome-wear-os",
@@ -442,7 +442,7 @@
         "awesome-list"
       ]
     },
-    "original_repository_sha": "7efbd0c25b2f150ddf232d2599b5151a9bbff2c3",
+    "original_repository_sha": "7c5e085b6a0af220e100d9411e3c007d8b041825",
     "enhanced_repository": "enhansome/enhansome-wear-os",
     "enhanced_repository_description": null,
     "title": "Awesome Wear OS with stars"
