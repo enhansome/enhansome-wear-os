@@ -424,7 +424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T20:30:30.058Z",
+    "last_updated": "2026-11-16T23:48:51.717Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome Wear OS stuff",
@@ -436,7 +436,7 @@
       "open_issues": 1,
       "owner": "WearOSCommunity",
       "repo": "awesome-wear-os",
-      "stars": 85,
+      "stars": 86,
       "topics": [
         "awesome",
         "awesome-list"
