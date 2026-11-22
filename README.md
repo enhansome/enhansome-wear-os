@@ -48,13 +48,13 @@ We welcome all Wear OS projects - free, paid, open or closed source! Check out o
 
 ### Utilities
 
-* [SimpleWear](https://play.google.com/store/apps/details?id=com.thewizrd.simplewear) - Control simple actions on your Android device from your Wear OS Watch. [(source code)](https://github.com/SimpleAppProjects/SimpleWear) ⭐ 199 | 🐛 6 | 🌐 Kotlin | 📅 2026-08-30
+* [SimpleWear](https://play.google.com/store/apps/details?id=com.thewizrd.simplewear) - Control simple actions on your Android device from your Wear OS Watch. [(source code)](https://github.com/SimpleAppProjects/SimpleWear) ⭐ 200 | 🐛 6 | 🌐 Kotlin | 📅 2026-08-30
 * [rhaeus/dnd-sync](https://github.com/rhaeus/dnd-sync) ⭐ 160 | 🐛 11 | 🌐 Java | 📅 2023-01-04 - Sync DND state between Android phone and watch.
   * [Silleellie/dnd-bedtime-sync](https://github.com/Silleellie/dnd-bedtime-sync) ⭐ 80 | 🐛 9 | 🌐 Java | 📅 2024-01-27 - Sync DND state and bedtime mode between your Android phone and watch.
     * [turtlepaw/dnd-bedtime-sync](https://github.com/turtlepaw/dnd-bedtime-sync) ⭐ 75 | 🐛 3 | 🌐 Kotlin | 📅 2025-11-26 - Material 3 fork with improvements.
 * [Offline Password Manager](https://play.google.com/store/apps/details?id=com.jackappsdev.password_manager) - Minimalistic & secure password manager with phone app. [(source code)](https://github.com/jagadeesh-k-2802/password-manager-compose) ⭐ 12 | 🐛 0 | 🌐 Kotlin | 📅 2026-05-23
-* [Watchcat](https://github.com/AuroraRAS/watchcat) ⭐ 9 | 🐛 0 | 🌐 Kotlin | 📅 2026-10-31 - Display messages from TCP, UDP, Bluetooth SSP, and BLE—like Unix cat, but for your wrist.
-* [Herold](https://github.com/chackrahunter/herold) ⭐ 0 | 🐛 1 | 🌐 Java | 📅 2026-09-04 - Toolkit for using a Galaxy Watch with an iPhone and no Google account: iPhone notifications over ANCS, health measurements, an account-free app store and a watch face.
+* [Watchcat](https://github.com/AuroraRAS/watchcat) ⭐ 10 | 🐛 0 | 🌐 Kotlin | 📅 2026-10-31 - Display messages from TCP, UDP, Bluetooth SSP, and BLE—like Unix cat, but for your wrist.
+* [Herold](https://github.com/chackrahunter/herold) ⭐ 1 | 🐛 1 | 🌐 Java | 📅 2026-09-04 - Toolkit for using a Galaxy Watch with an iPhone and no Google account: iPhone notifications over ANCS, health measurements, an account-free app store and a watch face.
 
 <details>
 <summary>💰 Paid apps</summary>
@@ -75,7 +75,7 @@ We welcome all Wear OS projects - free, paid, open or closed source! Check out o
 
 ### Watch Faces
 
-* [Clockwork](https://github.com/Turtlepaw/clockwork) ⭐ 13 | 🐛 1 | 🌐 TypeScript | 📅 2025-05-18 - The all-in-one package manager and builder for Watch Face Studio Projects.
+* [Clockwork](https://github.com/Turtlepaw/clockwork) ⭐ 14 | 🐛 1 | 🌐 TypeScript | 📅 2025-05-18 - The all-in-one package manager and builder for Watch Face Studio Projects.
 * [XML Preprocessor](https://github.com/gondwanasoft/xml-preprocessor) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2025-04-06 - Allows Python expressions and reduces duplication in Google-Samsung Watch Face Format XML.
 * [Watch Face Format Boilerplate Project](https://github.com/gondwanasoft/wff-boilerplate) ⭐ 4 | 🐛 0 | 📅 2025-02-26 - Empty Watch Face Format (WFF) project; useful for creating new WFF projects.
 * [Always On Display Assessor](https://github.com/gondwanasoft/wff-aod) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2025-02-18 - Tool for estimating AOD compliance of Watch Face Format screenshots or mockups.
@@ -91,4 +91,4 @@ We welcome all Wear OS projects - free, paid, open or closed source! Check out o
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._

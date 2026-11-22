@@ -77,7 +77,7 @@
                 "open_issues": 6,
                 "owner": "SimpleAppProjects",
                 "repo": "SimpleWear",
-                "stars": 199,
+                "stars": 200,
                 "topics": [
                   "android",
                   "wearos"
@@ -202,7 +202,7 @@
                 "open_issues": 0,
                 "owner": "AuroraRAS",
                 "repo": "watchcat",
-                "stars": 9,
+                "stars": 10,
                 "topics": [
                   "android",
                   "android-watch",
@@ -228,7 +228,7 @@
                 "open_issues": 1,
                 "owner": "chackrahunter",
                 "repo": "herold",
-                "stars": 0,
+                "stars": 1,
                 "topics": [
                   "aapt2",
                   "adb",
@@ -337,7 +337,7 @@
                 "open_issues": 1,
                 "owner": "Turtlepaw",
                 "repo": "clockwork",
-                "stars": 13,
+                "stars": 14,
                 "topics": [
                   "watch",
                   "watch-face",
@@ -424,7 +424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T21:01:36.749Z",
+    "last_updated": "2026-11-22T21:10:40.259Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome Wear OS stuff",
