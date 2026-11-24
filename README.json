@@ -74,7 +74,7 @@
                 "language": "Kotlin",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-30T17:52:19Z",
-                "open_issues": 6,
+                "open_issues": 1,
                 "owner": "SimpleAppProjects",
                 "repo": "SimpleWear",
                 "stars": 200,
@@ -145,7 +145,7 @@
                 "open_issues": 11,
                 "owner": "rhaeus",
                 "repo": "dnd-sync",
-                "stars": 160,
+                "stars": 161,
                 "topics": [
                   "android",
                   "do-not-disturb",
@@ -303,7 +303,7 @@
                 "open_issues": 2,
                 "owner": "AdamNiederer",
                 "repo": "cassette",
-                "stars": 29,
+                "stars": 30,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:04:32.882Z"
@@ -424,7 +424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T21:10:40.259Z",
+    "last_updated": "2026-11-24T02:30:12.502Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome Wear OS stuff",
