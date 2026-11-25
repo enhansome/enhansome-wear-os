@@ -54,7 +54,7 @@ We welcome all Wear OS projects - free, paid, open or closed source! Check out o
     * [turtlepaw/dnd-bedtime-sync](https://github.com/turtlepaw/dnd-bedtime-sync) ⭐ 74 | 🐛 3 | 🌐 Kotlin | 📅 2025-11-26 - Material 3 fork with improvements.
 * [Offline Password Manager](https://play.google.com/store/apps/details?id=com.jackappsdev.password_manager) - Minimalistic & secure password manager with phone app. [(source code)](https://github.com/jagadeesh-k-2802/password-manager-compose) ⭐ 12 | 🐛 0 | 🌐 Kotlin | 📅 2026-05-23
 * [Watchcat](https://github.com/AuroraRAS/watchcat) ⭐ 10 | 🐛 0 | 🌐 Kotlin | 📅 2026-10-31 - Display messages from TCP, UDP, Bluetooth SSP, and BLE—like Unix cat, but for your wrist.
-* [Herold](https://github.com/chackrahunter/herold) ⭐ 1 | 🐛 1 | 🌐 Java | 📅 2026-09-04 - Toolkit for using a Galaxy Watch with an iPhone and no Google account: iPhone notifications over ANCS, health measurements, an account-free app store and a watch face.
+* [Herold](https://github.com/chackrahunter/herold) ⭐ 2 | 🐛 1 | 🌐 Java | 📅 2026-09-04 - Toolkit for using a Galaxy Watch with an iPhone and no Google account: iPhone notifications over ANCS, health measurements, an account-free app store and a watch face.
 
 <details>
 <summary>💰 Paid apps</summary>

@@ -228,7 +228,7 @@
                 "open_issues": 1,
                 "owner": "chackrahunter",
                 "repo": "herold",
-                "stars": 1,
+                "stars": 2,
                 "topics": [
                   "aapt2",
                   "adb",
@@ -424,7 +424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T00:02:21.500Z",
+    "last_updated": "2026-11-25T23:44:40.654Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome Wear OS stuff",
